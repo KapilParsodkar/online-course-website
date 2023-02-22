@@ -1,4 +1,4 @@
-Online Courses Website
+Online Course Website
 Team Members
 1. Dronadula Ramtej - https://github.com/DronadulaRamtej
 2. Kapil Ramkrishna Parsodkar - https://github.com/kapilparsodkar
